@@ -1,0 +1,19 @@
+1)   Solve: x^2+3x-4 = 0
+	A) (1,-4)	B) (4,-2)
+	C) (-1,4)	D) (-4,-2)
+
+2) Capital of China is:
+	A) Beijing	B) Pyongyang
+	C) Seaul	D) Tokyo
+
+3) United States consists of ____ states
+	A) 43		B) 50
+	C) 13		D) 52
+
+4) A function is defined as:
+	A)Unique input to output mapping 	B) Rule to assign output a unique image of input
+	C) Relationship of output to input	D) All of the above
+
+5) Name of the first women scholar is:
+	A) Hazrat Aisha (R.A)	B) Hypatha of Alexandria
+	C) Diotima of Mantinea	D) Heloise d'Aragona
